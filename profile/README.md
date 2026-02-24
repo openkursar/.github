@@ -8,7 +8,7 @@
   </p>
 
   <p>
-    <a href="https://github.com/openkursar/halo-digital-human/tree/main/spec"><img src="https://img.shields.io/badge/Protocol-DHP_v1.0-black?style=flat-square" alt="DHP Protocol" /></a>
+    <a href="https://github.com/openkursar/digital-human-protocol"><img src="https://img.shields.io/badge/Protocol-DHP_v1.0-black?style=flat-square" alt="DHP Protocol" /></a>
     <img src="https://img.shields.io/badge/Architecture-Decentralized-blue?style=flat-square" alt="Decentralized" />
     <img src="https://img.shields.io/badge/Ecosystem-Open_Source-success?style=flat-square" alt="Open Source" />
   </p>
@@ -54,7 +54,7 @@ Powered by the openkursar protocol, we have incubated the first batch of 24/7 ag
 
 Whether it is protocol design, core component development, or building creative new agents, we welcome all developers to join the fleet.
 
-* **[Read the DHP Spec](https://github.com/openkursar/halo-digital-human/tree/main/spec)**: Learn how to write your first `spec.yaml`.
+* **[Read the DHP Spec](https://github.com/openkursar/digital-human-protocol)**: Learn how to write your first `spec.yaml`.
 * **[Explore the Registry](https://github.com/openkursar)**: Discover existing agents or submit your PR.
 * **[Join the Community](https://github.com/openkursar)**: Shape the evolution of our architecture.
 
@@ -98,7 +98,7 @@ Halo 客户端不仅是商店的前端界面，更是数字人的本地运行母
 
 无论是协议设计、基础组件开发，还是构建极具创造力的数字人，我们欢迎所有开发者的加入。
 
-* **[阅读 DHP 协议规范](https://github.com/openkursar/halo-digital-human/tree/main/spec)**：了解如何编写你的第一个数字人 `spec.yaml`。
+* **[阅读 DHP 协议规范](https://github.com/openkursar/digital-human-protocol)**：了解如何编写你的第一个数字人 `spec.yaml`。
 * **[探索 Registry 仓库](https://github.com/openkursar)**：查看现有数字人的实现，或提交你的 PR。
 * **[加入社区讨论](https://github.com/openkursar)**：参与架构演进与下一步规划。
 
