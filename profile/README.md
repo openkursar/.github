@@ -4,7 +4,7 @@
   <p><b>The Open Infrastructure for 7x24 Autonomous Agents.</b></p>
   
   <p>
-    <a href="#english-version">🇬🇧 English</a> | <a href="#-简体中文-chinese-version">🇨🇳 简体中文</a>
+    <a href="#english">English</a> | <a href="#中文">中文</a>
   </p>
 
   <p>
@@ -16,7 +16,7 @@
 
 ---
 
-## <a name="english-version"></a>🇬🇧 English Version
+## <a name="english"></a>English
 
 ### Vision
 
@@ -60,7 +60,7 @@ Whether it is protocol design, core component development, or building creative 
 
 ---
 
-## <a name="-简体中文-chinese-version"></a>🇨🇳 简体中文 (Chinese Version)
+## <a name="中文"></a>中文
 
 ### 愿景
 
